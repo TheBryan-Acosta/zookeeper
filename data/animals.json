@@ -162,6 +162,16 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "bob",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "17"
     }
   ]
 }
